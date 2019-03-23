@@ -1,4 +1,4 @@
-# Linear-Regression (from scratch)
+# Multivariate Linear-Regression (from scratch)
 Facebook Comment Volume Prediction
 
 - The “Facebook Comment Volume Dataset” from the UCI machine learning repository from :
